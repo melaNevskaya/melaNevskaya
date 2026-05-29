@@ -1,15 +1,11 @@
-## Привет, меня зовут Ксюша 🐈
+## Hi, I'm Kseniya 👋
 
-Я занимаюсь **Data Science, аналитикой данных и машинным обучением**.
-Учусь в НИУ ВШЭ на программе *«Управление цепями поставок и бизнес-аналитика»* (4 курс).
+I'm an aspiring Data Scientist / ML specialist with a strong foundation in data analytics, Python and applied machine learning.
 
-Мой опыт включает:
+Currently, I study Supply Chain Management and Business Analytics at HSE University and work on projects related to classic ML, data analysis and Computer Vision.
 
-* Ассистентство по Data Science в ВШЭ — помощь студентам с проектами и материалом.
-* Стажировки в **Alfa Algorithms** (ML-проекты, кластеризация, построение бейзлайнов), **Mondēlez International** (LLM и промпт-инжиниринг, SharePoint), **Lad-academy** (Computer vision), а также в крупных компаниях в сфере ESG (**Kept, Сбербанк**) и налогах (**Deloitte**).
-* Участие в хакатонах (*Ozon — рекомендательные системы, Норникель — компьютерное зрение*).
-* Фриланс-проекты по анализу данных, моделям классификации и регрессии.
-
-Технологии и инструменты, с которыми я работаю/знакома: **Python (pandas, numpy, scikit-learn, PyTorch, polars), SQL, Jupyter/Colab, PyCharm, MS Office**.
-
-Сейчас, параллельно с учебой и проектами, я занимаюсь самообразованием, прохожу курсы по статистике, теории вероятности и ML. В будущем я бы хотела углубиться в CV и/или совместить ML с ESG.
+My main interests are:
+- Machine Learning and Data Science
+- Computer Vision
+- Data Analytics and business insights
+- Applied ML projects with real-world data
