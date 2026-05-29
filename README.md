@@ -9,3 +9,23 @@ My main interests are:
 - Computer Vision
 - Data Analytics and business insights
 - Applied ML projects with real-world data
+
+## Tech Stack
+
+**Programming & Data:**  
+Python, SQL / MySQL, Excel
+
+**Data Analysis:**  
+pandas, numpy, polars, EDA, data cleaning, feature engineering, statsmodels
+
+**Machine Learning:**  
+scikit-learn, regression, classification, clustering, model evaluation
+
+**Visualization:**  
+matplotlib, seaborn, Power BI
+
+**Computer Vision:**  
+YOLO, image augmentation, segmentation, detection, Roboflow
+
+**Tools:**  
+Jupyter Notebook, Google Colab, GitHub, Kaggle, Loginom
