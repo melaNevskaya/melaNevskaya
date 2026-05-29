@@ -1,4 +1,4 @@
-## Hi, I'm Kseniya 👋
+## Hi, I'm Kseniya!
 
 I'm an aspiring Data Scientist / ML specialist with a strong foundation in data analytics, Python and applied machine learning.
 
